@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springboot-benchmark
+server:
+  port: 18081
+
+rocketmq:
+  consumer: default_consumer
+  producer: default_producer
+  namesrvaddr: 192.168.70.245:9876
