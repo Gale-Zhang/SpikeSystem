@@ -8,3 +8,9 @@ rocketmq:
   consumer: default_consumer
   producer: default_producer
   namesrvaddr: 192.168.70.245:9876
+
+mysql:
+  uri: asdfa
+
+redis:
+  uri: sda
